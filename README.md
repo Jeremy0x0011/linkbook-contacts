@@ -2,6 +2,10 @@
 
 面向“极限编程”作业的 Web 通讯录。项目已经覆盖作业的必做功能，并额外完成了搜索、公司分组、联系人多方式快捷复制和响应式页面。
 
+在线演示：<https://jeremy0x0011.github.io/linkbook-contacts/>
+
+源码仓库：<https://github.com/Jeremy0x0011/linkbook-contacts>
+
 ## 已实现功能
 
 | 作业要求 | 实现方式 |
